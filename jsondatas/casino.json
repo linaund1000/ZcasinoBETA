@@ -1,0 +1,13 @@
+{"instance_player": 
+    { 
+    "wins" : [{"date":"amount"}],
+    "loses" :[{"date":"amount"}],
+    "total" : ""    
+    },
+    
+"instance_player2":{  
+        "win" : [{"date":"amount"}],
+        "lose" : [{"date":"amount"}],
+        "total" : ""    
+        }
+}

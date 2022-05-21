@@ -1,0 +1,8 @@
+{"example_user": {"mail": ["-/*--/-*/example_user__@mail.com"], "phone": ["+9999999999999"]}, 
+"anexample": {"mail": ["seni_gidi_topal.com", "halalalahla", "hahaha"], "phone": []},
+ " ": {"mail": ["seni_gidi_topal.com"], "phone": []},
+  "  ": {"mail": ["seni_gidi_topal.com"], "phone": []}, 
+  "pompapompa.com": {"mail": ["seni_gidi_topal.com"], "phone": []},
+   "bromance.com": {"mail": ["seni_gidi_topal.com"], "phone": []}
+
+}
